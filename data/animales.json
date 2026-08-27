@@ -1,22 +1,21 @@
 [
   {
     "id": "max-1",
-    "name": "Max",
+    "name": "Milagros",
     "species": "Perro",
-    "breed": "Labrador Retriever",
-    "age": 2,
-    "gender": "Macho",
+    "breed": "Mix",
+    "age": 5.3,
+    "gender": "Hembra",
     "size": "Grande",
-    "description": "Max es un perrazo enorme con un corazón aún más grande. Le encanta jugar a buscar la pelota y nadar. Es perfecto para familias activas con jardín o acceso a parques.",
-    "personality": ["Juguetón", "Cariñoso", "Energético"],
+    "description": "Milagros fue rescatada en muy malas condiciones pero ha vuelto a ser la perrita encantadora que ha sido siempre. Ha recuperado la alegría y la confianza en los humanos. Está deseando tener un hogar",
+    "personality": [
+      "Tranquila",
+      "cariñosa y amigable"
+    ],
     "vaccinated": true,
     "neutered": true,
     "microchip": true,
     "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=600&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1552053831-71594a27632d?w=600&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80"
-    ],
     "type": "adoption",
     "featured": true,
     "isAdopted": false
@@ -30,7 +29,11 @@
     "gender": "Hembra",
     "size": "Mediana",
     "description": "Luna es una gata tranquila y afectuosa que adora el sol y las caricias. Se lleva bien con otros gatos y es perfecta para hogares tranquilos.",
-    "personality": ["Tranquila", "Afectuosa", "Independiente"],
+    "personality": [
+      "Tranquila",
+      "Afectuosa",
+      "Independiente"
+    ],
     "vaccinated": true,
     "neutered": true,
     "microchip": true,
@@ -52,7 +55,11 @@
     "gender": "Macho",
     "size": "Mediano",
     "description": "Rocky llegó al refugio después de pasar meses en la calle. Ya está totalmente recuperado y busca a alguien que le dé la oportunidad que merece. Es leal y fiel.",
-    "personality": ["Leal", "Tranquilo", "Protector"],
+    "personality": [
+      "Leal",
+      "Tranquilo",
+      "Protector"
+    ],
     "vaccinated": true,
     "neutered": true,
     "microchip": true,
@@ -73,7 +80,11 @@
     "gender": "Hembra",
     "size": "Pequeña",
     "description": "Mochi es una gatita siamesa con mucha personalidad. Curiosa, habladora y muy inteligente. Le encanta explorar y jugar con todo lo que encuentre.",
-    "personality": ["Curiosa", "Habladora", "Inteligente"],
+    "personality": [
+      "Curiosa",
+      "Habladora",
+      "Inteligente"
+    ],
     "vaccinated": true,
     "neutered": false,
     "microchip": true,
@@ -94,7 +105,11 @@
     "gender": "Macho",
     "size": "Pequeño",
     "description": "Coco es un conejito enérgico y sociable. Necesita espacio para saltar y explorar, y mucho amor. Ideal para familias con niños mayores de 8 años.",
-    "personality": ["Enérgico", "Sociable", "Curioso"],
+    "personality": [
+      "Enérgico",
+      "Sociable",
+      "Curioso"
+    ],
     "vaccinated": true,
     "neutered": false,
     "microchip": false,
@@ -115,7 +130,11 @@
     "gender": "Hembra",
     "size": "Grande",
     "description": "Nala es una border collie brillante que necesita estimulación mental y ejercicio diario. Se lleva bien con niños y es muy fácil de adiestrar.",
-    "personality": ["Inteligente", "Activa", "Fiel"],
+    "personality": [
+      "Inteligente",
+      "Activa",
+      "Fiel"
+    ],
     "vaccinated": true,
     "neutered": true,
     "microchip": true,
@@ -136,7 +155,11 @@
     "gender": "Macho",
     "size": "Grande",
     "description": "Simba es un Maine Coon majestuoso. Tranquilo, sociable y muy elegante. Le encanta estar en compañía humana y tiene un ronroneo que enamora.",
-    "personality": ["Tranquilo", "Sociable", "Elegante"],
+    "personality": [
+      "Tranquilo",
+      "Sociable",
+      "Elegante"
+    ],
     "vaccinated": true,
     "neutered": true,
     "microchip": true,
@@ -157,7 +180,11 @@
     "gender": "Hembra",
     "size": "Grande",
     "description": "Bella es una golden cachorra llena de vida. La encontramos abandonada con solo 3 meses. Ahora está lista para encontrar su familia para siempre.",
-    "personality": ["Juguetona", "Cariñosa", "Sociable"],
+    "personality": [
+      "Juguetona",
+      "Cariñosa",
+      "Sociable"
+    ],
     "vaccinated": true,
     "neutered": false,
     "microchip": true,
