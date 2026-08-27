@@ -1,10 +1,9 @@
 {
-  "isTemplate": true,
+  "isTemplate": false,
   "siteTitle": "Refugio Amigo Animal",
   "siteTagline": "Cada animal merece una segunda oportunidad",
   "footerText": "Rescatando y rehabilitando animales en situación de abandono.",
   "logoEmoji": "",
-
   "homepageText": {
     "heroTag": "Bienvenidos al refugio",
     "heroTitle": "Cada animal merece<br><em>una segunda oportunidad</em>",
@@ -16,7 +15,6 @@
     "contactTitle": "Ponte en contacto",
     "contactDescription": "¿Tienes dudas sobre el proceso de adopción o quieres programar una visita? Escríbenos."
   },
-
   "socialLinks": [
     {
       "name": "Instagram",
@@ -34,25 +32,36 @@
       "icon": "whatsapp"
     }
   ],
-
   "contactInfo": {
     "email": "contacto@ejemplo.com",
     "phone": "+34 600 000 000",
     "address": "Calle de Ejemplo, 123, 28000 Madrid, España",
     "hours": "Lunes–Viernes: 09:00–18:00 | Sábados: 10:00–14:00 | Domingos: Cerrado"
   },
-
   "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.234543!2d-3.703!3d40.416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDI0JzU3LjYiTiAzwrA0MicxMC44Ilc!5e0!3m2!1ses!2ses!4v1234567890",
-
   "donationUrl": "https://www.paypal.com/paypalme/ejemplo",
-
   "stats": [
-    { "value": 342, "label": "Animales rescatados", "icon": "🐾" },
-    { "value": 289, "label": "Adoptados con éxito", "icon": "🏠" },
-    { "value": 47, "label": "En acogida ahora", "icon": "❤️" },
-    { "value": 85, "label": "Voluntarios activos", "icon": "🙌" }
+    {
+      "value": 342,
+      "label": "Animales rescatados",
+      "icon": "🐾"
+    },
+    {
+      "value": 289,
+      "label": "Adoptados con éxito",
+      "icon": "🏠"
+    },
+    {
+      "value": 47,
+      "label": "En acogida ahora",
+      "icon": "❤️"
+    },
+    {
+      "value": 85,
+      "label": "Voluntarios activos",
+      "icon": "🙌"
+    }
   ],
-
   "events": [
     {
       "title": "Jornada de Adopción",
@@ -79,7 +88,6 @@
       "emoji": "🏃"
     }
   ],
-
   "gallery": [
     "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
     "https://images.unsplash.com/photo-1548681528-6a5c45b66b42?w=600&q=80",
@@ -88,7 +96,6 @@
     "https://images.unsplash.com/photo-1552053831-71594a27632d?w=600&q=80",
     "https://images.unsplash.com/photo-1571566882372-1598d88abd90?w=600&q=80"
   ],
-
   "aboutPage": {
     "title": "Nuestra Misión",
     "heroImage": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&q=80",
@@ -98,10 +105,26 @@
     ],
     "valuesTitle": "Nuestros Valores",
     "values": [
-      { "emoji": "💛", "title": "Compasión", "text": "Actuamos siempre con empatía y amor hacia cada animal que llega al refugio." },
-      { "emoji": "🌿", "title": "Respeto", "text": "Valoramos la vida y el bienestar de todos los seres vivos sin excepción." },
-      { "emoji": "🔍", "title": "Transparencia", "text": "Operamos con total honestidad y rendimos cuentas a nuestra comunidad." },
-      { "emoji": "🤝", "title": "Comunidad", "text": "Fomentamos la participación ciudadana en la adopción y cuidado animal." }
+      {
+        "emoji": "💛",
+        "title": "Compasión",
+        "text": "Actuamos siempre con empatía y amor hacia cada animal que llega al refugio."
+      },
+      {
+        "emoji": "🌿",
+        "title": "Respeto",
+        "text": "Valoramos la vida y el bienestar de todos los seres vivos sin excepción."
+      },
+      {
+        "emoji": "🔍",
+        "title": "Transparencia",
+        "text": "Operamos con total honestidad y rendimos cuentas a nuestra comunidad."
+      },
+      {
+        "emoji": "🤝",
+        "title": "Comunidad",
+        "text": "Fomentamos la participación ciudadana en la adopción y cuidado animal."
+      }
     ],
     "teamTitle": "Conoce al Equipo",
     "teamMembers": [
@@ -125,7 +148,6 @@
       }
     ]
   },
-
   "helpPage": {
     "title": "Cómo Puedes Ayudar",
     "description": "Tu apoyo transforma vidas. Hay muchas formas de colaborar con el refugio, escoge la que mejor se adapte a ti.",
@@ -133,48 +155,92 @@
       "title": "Dona",
       "description": "Cada euro que donas va directamente al cuidado veterinario, alimentación y bienestar de nuestros animales.",
       "methods": [
-        { "name": "PayPal", "info": "Donación online rápida y segura", "link": "https://www.paypal.com/paypalme/ejemplo", "emoji": "" },
-        { "name": "Bizum", "info": "Envía al número: 600 000 000\nConcepto: Donación", "link": null, "emoji": "" },
-        { "name": "Transferencia", "info": "Banco: Banco de Ejemplo\nIBAN: ES00 0000 0000 0000 0000 0000", "link": null, "emoji": "" }
+        {
+          "name": "PayPal",
+          "info": "Donación online rápida y segura",
+          "link": "https://www.paypal.com/paypalme/ejemplo",
+          "emoji": ""
+        },
+        {
+          "name": "Bizum",
+          "info": "Envía al número: 600 000 000\nConcepto: Donación",
+          "link": null,
+          "emoji": ""
+        },
+        {
+          "name": "Transferencia",
+          "info": "Banco: Banco de Ejemplo\nIBAN: ES00 0000 0000 0000 0000 0000",
+          "link": null,
+          "emoji": ""
+        }
       ]
     },
     "materials": {
       "title": "Materiales",
       "description": "Siempre necesitamos suministros para el día a día. Puedes traerlos al refugio en horario de atención.",
-      "items": ["Pienso para perros y gatos", "Mantas y toallas", "Juguetes para mascotas", "Arena para gatos", "Transportines y correas", "Medicamentos veterinarios (consultar)"]
+      "items": [
+        "Pienso para perros y gatos",
+        "Mantas y toallas",
+        "Juguetes para mascotas",
+        "Arena para gatos",
+        "Transportines y correas",
+        "Medicamentos veterinarios (consultar)"
+      ],
+      "show": true
     },
     "volunteer": {
       "title": "Voluntariado",
       "description": "Si tienes tiempo y ganas de ayudar, ¡te necesitamos! Nuestros voluntarios son el corazón del refugio.",
-      "tasks": ["Paseos y socialización de perros", "Cuidado y socialización de gatos", "Mantenimiento de instalaciones", "Apoyo en eventos de adopción", "Fotografía de animales para redes sociales", "Gestión de redes sociales y comunicación"],
-      "contactPrompt": "¿Te animas? Escríbenos a"
+      "tasks": [
+        "Paseos y socialización de perros",
+        "Cuidado y socialización de gatos",
+        "Mantenimiento de instalaciones",
+        "Apoyo en eventos de adopción",
+        "Fotografía de animales para redes sociales",
+        "Gestión de redes sociales y comunicación"
+      ],
+      "contactPrompt": "¿Te animas? Escríbenos a",
+      "show": true
     },
     "foster": {
       "title": "Acogida Temporal",
       "description": "La acogida temporal es fundamental para animales que necesitan un entorno familiar antes de ser adoptados.",
       "steps": [
-        { "step": "1", "title": "Contacta con nosotros", "text": "Cuéntanos tu situación y disponibilidad." },
-        { "step": "2", "title": "Entrevista", "text": "Una pequeña charla para encontrar el animal ideal para ti." },
-        { "step": "3", "title": "Acogida", "text": "Te proporcionamos todo lo necesario para el animal." },
-        { "step": "4", "title": "Seguimiento", "text": "Te acompañamos durante todo el proceso." }
+        {
+          "step": "1",
+          "title": "Contacta con nosotros",
+          "text": "Cuéntanos tu situación y disponibilidad."
+        },
+        {
+          "step": "2",
+          "title": "Entrevista",
+          "text": "Una pequeña charla para encontrar el animal ideal para ti."
+        },
+        {
+          "step": "3",
+          "title": "Acogida",
+          "text": "Te proporcionamos todo lo necesario para el animal."
+        },
+        {
+          "step": "4",
+          "title": "Seguimiento",
+          "text": "Te acompañamos durante todo el proceso."
+        }
       ]
     }
   },
-
   "contactPage": {
     "title": "Contáctanos",
     "description": "Estamos aquí para resolver tus dudas. No dudes en escribirnos o llamarnos.",
     "formSubject": "Consulta desde la web del refugio"
   },
-
   "appsScriptAnimalsUrl": "TU_URL_DE_APPS_SCRIPT_ANIMALES",
-
   "theme": {
-    "primaryColor": "#E8622A",
-    "secondaryColor": "#2D6A4F",
-    "accentColor": "#FFB703",
-    "darkBg": "#1A1A2E",
-    "lightBg": "#FFFBF7",
-    "cardBg": "#FFFFFF"
+    "primaryColor": "#e8622a",
+    "secondaryColor": "#2d6a4f",
+    "accentColor": "#ffb703",
+    "darkBg": "#1a1a2e",
+    "lightBg": "#fffbf7",
+    "cardBg": "#ffffff"
   }
 }
